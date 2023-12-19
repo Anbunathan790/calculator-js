@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+input{
+    background-color: gray;
+    border: none;
+    color: white;
+}
+td, tr{
+    border: 1px solid black;
+}
+table{
+    border: 2px solid;
+}
+td{
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+}
+#id1{
+    background-color: rgb(16,58,71);
+}
